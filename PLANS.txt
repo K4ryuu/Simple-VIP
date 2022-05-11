@@ -1,0 +1,5 @@
+- Add blocklist again for name- and scoreboard tags.
+- Add spawning grenade addition support.
+- Add money addition support.
+- Add credit multiplier system for VIP users (support for Zephyrus, ShopCore (or any additionally))
+- Add lvlranks XP multiplier system for VIP users

@@ -1,0 +1,4 @@
+The plugin requires the following chat-processor in order to use chat
+modification utilities and commands.
+
+https://forums.alliedmods.net/showthread.php?t=286913

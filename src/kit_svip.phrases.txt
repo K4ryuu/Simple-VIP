@@ -1,0 +1,205 @@
+﻿"Phrases"
+{
+	"Menu_ON"
+	{
+		"en"				ON"
+	}
+	"Menu_OFF"
+	{
+		"en"				"OFF"
+	}
+	"Menu_BonusHP"
+	{
+		"#format"		"{1:d}"
+		"en"				"+{1} bonus HP"
+	}
+	"Menu_BonusArmor"
+	{
+		"#format"		"{1:d}"
+		"en"				"+{1} bonus Armor"
+	}
+	"Menu_ClanTagEditor"
+	{
+		"en"			"Scoreboard Editor"
+	}
+	"Menu_ChatMods"
+	{
+		"en"			"Chat Modifications"
+	}
+	"Menu_Rainbow"
+	{
+		"en"			"Rainbow Model"
+	}
+	"Menu_ChatUtils"
+	{
+		"en"			"Chat Utils."
+	}
+	"Menu_ModifyPrefix"
+	{
+		"en"			"Modify chat prefix"
+	}
+	"Menu_ModifyClanTag"
+	{
+		"en"			"Modify scoreboard prefix"
+	}
+	"Menu_PrefixColor"
+	{
+		"en"			"Change prefix color"
+	}
+	"Menu_NameColor"
+	{
+		"en"			"Change name color"
+	}
+	"Menu_ChatColor"
+	{
+		"en"			"Change text color"
+	}
+	"Menu_ResetPrefix"
+	{
+		"en"			"Reset chat prefix"
+	}
+	"Menu_ResetClanTag"
+	{
+		"en"			"Reset scoreboard prefix"
+	}
+	"Menu_ChooseColor"
+	{
+		"en"			"Choose Color"
+	}
+	"Chat_Enabled"
+	{
+		"en"			"{green}Enabled"
+	}
+	"Chat_Disabled"
+	{
+		"en"			"{red}Disabled"
+	}
+	"Chat_BonusHP"
+	{
+		"en"			"Bonus Health is now"
+	}
+	"Chat_BonusArmor"
+	{
+		"en"			"Bonus Armor is now"
+	}
+	"Chat_Rainbow"
+	{
+		"en"			"Rainbow player model is now"
+	}
+	"Chat_ModifyCancel"
+	{
+		"en"			"The modification succesfully cancelled!"
+	}
+	"Chat_TypeClanTag"
+	{
+		"en"			"Please type your new scoreboard prefix to the chat! Type 'abort' or 'cancel' to cancel."
+	}
+	"Chat_TypeNameTag"
+	{
+		"en"			"Please type your new chat prefix to the chat! Type 'abort' or 'cancel' to cancel."
+	}
+	"Chat_ClanTagReset"
+	{
+		"en"			"Your scoreboard prefix has been reset!"
+	}
+	"Chat_NameTagReset"
+	{
+		"en"			"Your chat prefix has been reset!"
+	}
+	"Chat_SetClanTag"
+	{
+		"#format"	"{1:s}"
+		"en"			"Your scoreboard prefix is now: {lightred}{1}"
+	}
+	"Chat_SetNameTag"
+	{
+		"en"			"Your chat prefix is now: {lightred}{1}"
+	}
+	"Chat_SetPrefixColor"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"Your prefix color is now {1}{2}"
+	}
+	"Chat_SetNameColor"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"Your name color is now {1}{2}"
+	}
+	"Chat_SetTextColor"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"			"Your text color is now {1}{2}"
+	}
+	"Color_Default"
+	{
+		"en"			"White"
+	}
+	"Color_Red"
+	{
+		"en"			"Red"
+	}
+	"Color_Lightred"
+	{
+		"en"			"Light red"
+	}
+	"Color_Darkred"
+	{
+		"en"			"Dark red"
+	}
+	"Color_BlueGray"
+	{
+		"en"			"Blue-gray"
+	}
+	"Color_Blue"
+	{
+		"en"			"Blue"
+	}
+	"Color_Darkblue"
+	{
+		"en"			"Dark blue"
+	}
+	"Color_Purple"
+	{
+		"en"			"Purple"
+	}
+	"Color_Orchid"
+	{
+		"en"			"Orchid"
+	}
+	"Color_Yellow"
+	{
+		"en"			"Yellow"
+	}
+	"Color_Gold"
+	{
+		"en"			"Gold"
+	}
+	"Color_Lightgreen"
+	{
+		"en"			"Lightgreen"
+	}
+	"Color_Green"
+	{
+		"en"			"Green"
+	}
+	"Color_Lime"
+	{
+		"en"			"Lime"
+	}
+	"Color_Lightgrey"
+	{
+		"en"			"Lightgrey"
+	}
+	"Color_Grey"
+	{
+		"en"			"Grey"
+	}
+	"Error_InGameOnly"
+	{
+		"en"			"This command can only be used in-game!"
+	}
+	"Error_ModuleDisabled"
+	{
+		"en"			"This module/function is disabled by the server operator."
+	}
+}
