@@ -57,8 +57,10 @@ int	 iVipFlag;
 
 Handle CheckEventTimer = null;
 
-public void OnMapStart()
+public void OnPluginStart()
 {
+	LoadTranslations("kit_svip.phrases");
+
 	C_Initialize();
 
 	g_hPrefix	 = CreateConVar("sm_svip_prefix", "{default}「{lightred}Kitsune-VIP{default}」{lime}", "Modify the plugin's chat prefix (color codes supported)");
