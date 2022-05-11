@@ -3,203 +3,252 @@
 	"Menu_ON"
 	{
 		"en"				ON"
+		"chi"				"开启"
 	}
 	"Menu_OFF"
 	{
 		"en"				"OFF"
+		"chi"				"关闭"
 	}
 	"Menu_BonusHP"
 	{
 		"#format"		"{1:d}"
 		"en"				"+{1} bonus HP"
+		"chi"				"+{1} 额外 HP"
 	}
 	"Menu_BonusArmor"
 	{
 		"#format"		"{1:d}"
 		"en"				"+{1} bonus Armor"
+		"chi"				"+{1} 额外 护甲"
 	}
 	"Menu_ClanTagEditor"
 	{
 		"en"			"Scoreboard Editor"
+		"chi"			"记分板编辑器"
 	}
 	"Menu_ChatMods"
 	{
 		"en"			"Chat Modifications"
+		"chi"			"聊天框修改"
 	}
 	"Menu_Rainbow"
 	{
 		"en"			"Rainbow Model"
+		"chi"			"彩虹人物模型"
 	}
 	"Menu_ChatUtils"
 	{
 		"en"			"Chat Utils."
+		"chi"			"聊天框小工具."
 	}
 	"Menu_ModifyPrefix"
 	{
 		"en"			"Modify chat prefix"
+		"chi"			"修改聊天框前缀"
 	}
 	"Menu_ModifyClanTag"
 	{
 		"en"			"Modify scoreboard prefix"
+		"chi"			"修改记分板前缀"
 	}
 	"Menu_PrefixColor"
 	{
 		"en"			"Change prefix color"
+		"chi"			"修改前缀颜色"
 	}
 	"Menu_NameColor"
 	{
 		"en"			"Change name color"
+		"chi"			"修改名称颜色"
 	}
 	"Menu_ChatColor"
 	{
 		"en"			"Change text color"
+		"chi"			"修改聊天内容颜色"
 	}
 	"Menu_ResetPrefix"
 	{
 		"en"			"Reset chat prefix"
+		"chi"			"Reset chat prefix"
 	}
 	"Menu_ResetClanTag"
 	{
 		"en"			"Reset scoreboard prefix"
+		"chi"			"重置记分板前缀"
 	}
 	"Menu_ChooseColor"
 	{
 		"en"			"Choose Color"
+		"chi"			"选择颜色"
 	}
 	"Chat_Enabled"
 	{
 		"en"			"{green}Enabled"
+		"chi"			"{green}已启动"
 	}
 	"Chat_Disabled"
 	{
 		"en"			"{red}Disabled"
+		"chi"			"{red}已关闭"
 	}
 	"Chat_BonusHP"
 	{
 		"en"			"Bonus Health is now"
+		"chi"			"额外HP到账"
 	}
 	"Chat_BonusArmor"
 	{
 		"en"			"Bonus Armor is now"
+		"chi"			"额外护甲到账"
 	}
 	"Chat_Rainbow"
 	{
 		"en"			"Rainbow player model is now"
+		"chi"			"彩虹玩家模型已设置"
 	}
 	"Chat_ModifyCancel"
 	{
 		"en"			"The modification succesfully cancelled!"
+		"chi"			"本次修改已取消!"
 	}
 	"Chat_TypeClanTag"
 	{
 		"en"			"Please type your new scoreboard prefix to the chat! Type 'abort' or 'cancel' to cancel."
+		"chi"			"请在输入你想要的新记分板前缀! 输入'abort' 或者 'cancel' 可取消配置."
 	}
 	"Chat_TypeNameTag"
 	{
 		"en"			"Please type your new chat prefix to the chat! Type 'abort' or 'cancel' to cancel."
+		"chi"			"请在输入你想要的聊天框前缀! 输入'abort' 或者 'cancel' 可取消配置."
 	}
 	"Chat_ClanTagReset"
 	{
 		"en"			"Your scoreboard prefix has been reset!"
+		"chi"			"你的记分板前缀设置已还原!"
 	}
 	"Chat_NameTagReset"
 	{
 		"en"			"Your chat prefix has been reset!"
+		"chi"			"你的聊天框前缀设置已还原!"
 	}
 	"Chat_SetClanTag"
 	{
 		"#format"	"{1:s}"
 		"en"			"Your scoreboard prefix is now: {lightred}{1}"
+		"chi"			"你当前的记分板前缀：{lightred}{1}!"
 	}
 	"Chat_SetNameTag"
 	{
 		"en"			"Your chat prefix is now: {lightred}{1}"
+		"chi"			"你当前的聊天框前缀：{lightred}{1}!"
 	}
 	"Chat_SetPrefixColor"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"			"Your prefix color is now {1}{2}"
+		"chi"			"你当前前缀的颜色：{1}{2}"
 	}
 	"Chat_SetNameColor"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"			"Your name color is now {1}{2}"
+		"chi"			"你当前名称的颜色：{1}{2}"
 	}
 	"Chat_SetTextColor"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"			"Your text color is now {1}{2}"
+		"chi"			"你当前的聊天内容颜色：{1}{2}"
 	}
 	"Color_Default"
 	{
 		"en"			"White"
+		"chi"			"白色"
 	}
 	"Color_Red"
 	{
 		"en"			"Red"
+		"chi"			"红色"
 	}
 	"Color_Lightred"
 	{
 		"en"			"Light red"
+		"chi"			"浅红色"
 	}
 	"Color_Darkred"
 	{
 		"en"			"Dark red"
+		"chi"			"深红色"
 	}
 	"Color_BlueGray"
 	{
 		"en"			"Blue-gray"
+		"chi"			"蓝灰色"
 	}
 	"Color_Blue"
 	{
 		"en"			"Blue"
+		"chi"			"蓝色"
 	}
 	"Color_Darkblue"
 	{
 		"en"			"Dark blue"
+		"chi"			"深蓝色"
 	}
 	"Color_Purple"
 	{
 		"en"			"Purple"
+		"chi"			"紫色"
 	}
 	"Color_Orchid"
 	{
 		"en"			"Orchid"
+		"chi"			"淡紫色"
 	}
 	"Color_Yellow"
 	{
 		"en"			"Yellow"
+		"chi"			"黄色"
 	}
 	"Color_Gold"
 	{
 		"en"			"Gold"
+		"chi"			"金色"
 	}
 	"Color_Lightgreen"
 	{
 		"en"			"Lightgreen"
+		"chi"			"淡绿色"
 	}
 	"Color_Green"
 	{
 		"en"			"Green"
+		"chi"			"绿色"
 	}
 	"Color_Lime"
 	{
 		"en"			"Lime"
+		"chi"			"灰绿色"
 	}
 	"Color_Lightgrey"
 	{
 		"en"			"Lightgrey"
+		"chi"			"淡灰色"
 	}
 	"Color_Grey"
 	{
 		"en"			"Grey"
+		"chi"			"灰色"
 	}
 	"Error_InGameOnly"
 	{
 		"en"			"This command can only be used in-game!"
+		"chi"			"此命令只能在游戏进行中使用!"
 	}
 	"Error_ModuleDisabled"
 	{
 		"en"			"This module/function is disabled by the server operator."
+		"chi"			"这个模块/功能被服主禁用了."
 	}
 }
