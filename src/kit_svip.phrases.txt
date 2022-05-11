@@ -140,6 +140,7 @@
 	}
 	"Chat_SetNameTag"
 	{
+		"#format"	"{1:s}"
 		"en"			"Your chat prefix is now: {lightred}{1}"
 		"chi"			"你当前的聊天框前缀：{lightred}{1}!"
 	}
