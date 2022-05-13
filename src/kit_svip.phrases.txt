@@ -2,7 +2,7 @@
 {
 	"Menu_ON"
 	{
-		"en"				ON"
+		"en"				"ON"
 		"chi"				"开启"
 	}
 	"Menu_OFF"
