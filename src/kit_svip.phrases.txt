@@ -4,252 +4,301 @@
 	{
 		"en"				"ON"
 		"chi"				"开启"
+		"tr"				"AKTİF"
 	}
 	"Menu_OFF"
 	{
 		"en"				"OFF"
 		"chi"				"关闭"
+		"tr"				"KAPALI"
 	}
 	"Menu_BonusHP"
 	{
 		"#format"		"{1:d}"
 		"en"				"+{1} bonus HP"
 		"chi"				"+{1} 额外 HP"
+		"tr"				"+{1} ekstra CAN"
 	}
 	"Menu_BonusArmor"
 	{
 		"#format"		"{1:d}"
 		"en"				"+{1} bonus Armor"
 		"chi"				"+{1} 额外 护甲"
+		"tr"				"+{1} ekstra Zırh"
 	}
 	"Menu_ClanTagEditor"
 	{
 		"en"			"Scoreboard Editor"
 		"chi"			"记分板编辑器"
+		"tr"			"Skor Tablosu Editörü"
 	}
 	"Menu_ChatMods"
 	{
 		"en"			"Chat Modifications"
 		"chi"			"聊天框修改"
+		"tr"			"Sohbet Değişiklikleri"
 	}
 	"Menu_Rainbow"
 	{
 		"en"			"Rainbow Model"
 		"chi"			"彩虹人物模型"
+		"tr"			"Gökkuşağı Model"
 	}
 	"Menu_ChatUtils"
 	{
 		"en"			"Chat Utils."
 		"chi"			"聊天框小工具."
+		"tr"			"Sohbet Araçları."
 	}
 	"Menu_ModifyPrefix"
 	{
 		"en"			"Modify chat prefix"
 		"chi"			"修改聊天框前缀"
+		"tr"			"Sohbet tagını değiştir"
 	}
 	"Menu_ModifyClanTag"
 	{
 		"en"			"Modify scoreboard prefix"
 		"chi"			"修改记分板前缀"
+		"tr"			"Skor tablosu tagını değiştir
 	}
 	"Menu_PrefixColor"
 	{
 		"en"			"Change prefix color"
 		"chi"			"修改前缀颜色"
+		"tr"			"Tag rengini değiştir"
 	}
 	"Menu_NameColor"
 	{
 		"en"			"Change name color"
 		"chi"			"修改名称颜色"
+		"tr"			"İsim rengini değiştir"
 	}
 	"Menu_ChatColor"
 	{
 		"en"			"Change text color"
 		"chi"			"修改聊天内容颜色"
+		"tr"			"Yazı rengini değiştir"
 	}
 	"Menu_ResetPrefix"
 	{
 		"en"			"Reset chat prefix"
 		"chi"			"Reset chat prefix"
+		"tr"			"Sohbet tagını sıfırla"
 	}
 	"Menu_ResetClanTag"
 	{
 		"en"			"Reset scoreboard prefix"
 		"chi"			"重置记分板前缀"
+		"tr"			"Skor tablosu tagını sıfırla"
 	}
 	"Menu_ChooseColor"
 	{
 		"en"			"Choose Color"
 		"chi"			"选择颜色"
+		"tr"			"Renk Seç"
 	}
 	"Chat_Enabled"
 	{
 		"en"			"{green}Enabled"
 		"chi"			"{green}已启动"
+		"tr"			"{green}Açık"
 	}
 	"Chat_Disabled"
 	{
 		"en"			"{red}Disabled"
 		"chi"			"{red}已关闭"
+		"tr"			"{red}Kapalı"
 	}
 	"Chat_BonusHP"
 	{
 		"en"			"Bonus Health is now"
 		"chi"			"额外HP到账"
+		"tr"			"Ekstra Can ayarlandı"
 	}
 	"Chat_BonusArmor"
 	{
 		"en"			"Bonus Armor is now"
 		"chi"			"额外护甲到账"
+		"tr"			"Ekstra Zırh ayarlandı"
 	}
 	"Chat_Rainbow"
 	{
 		"en"			"Rainbow player model is now"
 		"chi"			"彩虹玩家模型已设置"
+		"tr"			"Gökkuşağı model ayarlandı"
 	}
 	"Chat_ModifyCancel"
 	{
 		"en"			"The modification succesfully cancelled!"
 		"chi"			"本次修改已取消!"
+		"tr"			"Değişiklik başarıyla iptal edildi!"
 	}
 	"Chat_TypeClanTag"
 	{
 		"en"			"Please type your new scoreboard prefix to the chat! Type 'abort' or 'cancel' to cancel."
 		"chi"			"请在输入你想要的新记分板前缀! 输入'abort' 或者 'cancel' 可取消配置."
+		"tr"			"Yeni skor tablosu tagınızı lütfen sohbete yazın! İptal etmek için 'abort' veya 'cancel' yazın."
 	}
 	"Chat_TypeNameTag"
 	{
 		"en"			"Please type your new chat prefix to the chat! Type 'abort' or 'cancel' to cancel."
 		"chi"			"请在输入你想要的聊天框前缀! 输入'abort' 或者 'cancel' 可取消配置."
+		"tr"			"Yeni sohbet tagınızı lütfen sohbete yazın! İptal etmek için 'abort' veya 'cancel' yazın."
 	}
 	"Chat_ClanTagReset"
 	{
 		"en"			"Your scoreboard prefix has been reset!"
 		"chi"			"你的记分板前缀设置已还原!"
+		"tr"			"Skor tablosu tagınız sıfırlandı!"
 	}
 	"Chat_NameTagReset"
 	{
 		"en"			"Your chat prefix has been reset!"
 		"chi"			"你的聊天框前缀设置已还原!"
+		"tr"			"Sohbet tagınız sıfırlandı!"
 	}
 	"Chat_SetClanTag"
 	{
 		"#format"	"{1:s}"
 		"en"			"Your scoreboard prefix is now: {lightred}{1}"
 		"chi"			"你当前的记分板前缀：{lightred}{1}!"
+		"tr"			"Skor tablosu tagınız: {lightred}{1}"
 	}
 	"Chat_SetNameTag"
 	{
 		"#format"	"{1:s}"
 		"en"			"Your chat prefix is now: {lightred}{1}"
 		"chi"			"你当前的聊天框前缀：{lightred}{1}!"
+		"tr"			"Sohbet tagınız: {lightred}{1}"
 	}
 	"Chat_SetPrefixColor"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"			"Your prefix color is now {1}{2}"
 		"chi"			"你当前前缀的颜色：{1}{2}"
+		"tr"			"Tag renginiz: {1}{2}"
 	}
 	"Chat_SetNameColor"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"			"Your name color is now {1}{2}"
 		"chi"			"你当前名称的颜色：{1}{2}"
+		"tr"			"İsim renginiz: {1}{2}"
 	}
 	"Chat_SetTextColor"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"			"Your text color is now {1}{2}"
 		"chi"			"你当前的聊天内容颜色：{1}{2}"
+		"tr"			"Yazı renginiz: {1}{2}"
 	}
 	"Color_Default"
 	{
 		"en"			"White"
 		"chi"			"白色"
+		"tr"			"Beyaz"
 	}
 	"Color_Red"
 	{
 		"en"			"Red"
 		"chi"			"红色"
+		"tr"			"Kırmızı"
 	}
 	"Color_Lightred"
 	{
 		"en"			"Light red"
 		"chi"			"浅红色"
+		"tr"			"Açık kırmızı"
 	}
 	"Color_Darkred"
 	{
 		"en"			"Dark red"
 		"chi"			"深红色"
+		"tr"			"Koyu kırmızı"
 	}
 	"Color_BlueGray"
 	{
 		"en"			"Blue-gray"
 		"chi"			"蓝灰色"
+		"tr"			"Mavi-gri"
 	}
 	"Color_Blue"
 	{
 		"en"			"Blue"
 		"chi"			"蓝色"
+		"tr"			"Mavi"
 	}
 	"Color_Darkblue"
 	{
 		"en"			"Dark blue"
 		"chi"			"深蓝色"
+		"tr"			"Koyu mavi"
 	}
 	"Color_Purple"
 	{
 		"en"			"Purple"
 		"chi"			"紫色"
+		"tr"			"Mor"
 	}
 	"Color_Orchid"
 	{
 		"en"			"Orchid"
 		"chi"			"淡紫色"
+		"tr"			"Orkide(Pembe)"
 	}
 	"Color_Yellow"
 	{
 		"en"			"Yellow"
 		"chi"			"黄色"
+		"tr"			"Sarı"
 	}
 	"Color_Gold"
 	{
 		"en"			"Gold"
 		"chi"			"金色"
+		"tr"			"Altın"
 	}
 	"Color_Lightgreen"
 	{
 		"en"			"Lightgreen"
 		"chi"			"淡绿色"
+		"tr"			"Açık yeşil"
 	}
 	"Color_Green"
 	{
 		"en"			"Green"
 		"chi"			"绿色"
+		"tr"			"Yeşil"
 	}
 	"Color_Lime"
 	{
 		"en"			"Lime"
 		"chi"			"灰绿色"
+		"tr"			"Limon yeşili"
 	}
 	"Color_Lightgrey"
 	{
 		"en"			"Lightgrey"
 		"chi"			"淡灰色"
+		"tr"			"Açık gri"
 	}
 	"Color_Grey"
 	{
 		"en"			"Grey"
 		"chi"			"灰色"
+		"tr"			"Gri"
 	}
 	"Error_InGameOnly"
 	{
 		"en"			"This command can only be used in-game!"
 		"chi"			"此命令只能在游戏进行中使用!"
+		"tr"			"Bu komut sadece oyun içinde kullanılabilir!"
 	}
 	"Error_ModuleDisabled"
 	{
 		"en"			"This module/function is disabled by the server operator."
 		"chi"			"这个模块/功能被服主禁用了."
+		"tr"			"Bu modül/fonksiyon sunucu tarafından devre dışı bırakılmış."
 	}
 }
